@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Activity5B</string>
+    <string name="web">Download Web Page</string>
+    <string name="image">Download Image</string>
 </resources>
